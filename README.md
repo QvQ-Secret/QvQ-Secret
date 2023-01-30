@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @QvQ-Secret
 - 👀 I’m interested in do some trash.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning nothing but do a trash.
 
 <!---
 QvQ-Secret/QvQ-Secret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
